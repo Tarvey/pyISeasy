@@ -29,10 +29,3 @@ PROJECT README.md:
 
 # Functions
 ## iswin() - Checks if a user is on windows.
-ex:
-
-`
-if iswin():
-
-    show("Hi Windows User!")
-`
