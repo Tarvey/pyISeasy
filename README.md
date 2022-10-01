@@ -16,18 +16,18 @@ then use the simple commands using `py.(command)`
 
 PROJECT README.md:
 
-## The Python-Easy Project
-# Made by Tarvey@github quaqak@youtube
+# The Python-Easy Project
+## Made by Tarvey@github quaqak@youtube
 
-## How to use it?
-# Its easy! just type "pip install easypython"
+# How to use it?
+## Its easy! just type "pip install qck_pyiseasy"
 
-## Commands
-# show - Shows text on the screen
-# iw = Prints and waits for user input.
-# docmd - Runs a command in bash or cmd.
+# Commands
+## show - Shows text on the screen
+## iw = Prints and waits for user input.
+## docmd - Runs a command in bash or cmd.
 
-## Functions
-# iswin() - Checks if a user is on windows.
+# Functions
+## iswin() - Checks if a user is on windows.
 if iswin():
     show("Hi Windows User!")
