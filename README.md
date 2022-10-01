@@ -14,6 +14,10 @@ in your main.py file type:
 
 then use the simple commands using `py.(command)`
 
+How to upgrade:
+
+type `pip install qck-pyiseasy==(newest version)`
+
 PROJECT README.md:
 
 # The Python-Easy Project
